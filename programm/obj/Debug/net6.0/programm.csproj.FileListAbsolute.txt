@@ -1,0 +1,15 @@
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\bin\Debug\net6.0\programm.exe
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\bin\Debug\net6.0\programm.deps.json
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\bin\Debug\net6.0\programm.dll
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\bin\Debug\net6.0\programm.pdb
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.dll
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\refint\programm.dll
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.pdb
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+C:\stady\github\Basic_commands_Git\finalWorkBlock_GB\programm\obj\Debug\net6.0\ref\programm.dll
